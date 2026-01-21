@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "master-ai-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "edbf4425-c6b7-4566-b595-51e51d4276bf",
+			"database_name": "master-ai-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
